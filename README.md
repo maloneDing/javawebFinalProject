@@ -33,4 +33,5 @@
 [!image] https://github.com/maloneDing/javawebFinalProject/raw/master/images/07.jpg
 </pre>
 
-## ending
+## 6 客户端功能
+[!image] https://github.com/maloneDing/javawebFinalProject/raw/master/images/08.jpg
