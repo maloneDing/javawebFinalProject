@@ -38,4 +38,4 @@
 ![cmd-markdown-logo](https://github.com/maloneDing/javawebFinalProject/raw/master/images/07.jpg)
 
 ## 6 客户端功能
-![cmd-markdown-logo](https://github.com/maloneDing/javawebFinalProject/raw/master/08.jpg)
+![cmd-markdown-logo](https://github.com/maloneDing/javawebFinalProject/raw/master/images/08.jpg)
