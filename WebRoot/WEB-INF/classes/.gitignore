@@ -1,8 +1,4 @@
 /.struts.mex
-/META-INF
-/com
-/hibernate.cfg.xml
-/struts.xml
 /01.jpg
 /02.jpg
 /03.jpg
@@ -10,5 +6,9 @@
 /05.jpg
 /06.jpg
 /07.jpg
-/图片1.png
 /08.jpg
+/09.jpg
+/META-INF
+/com
+/hibernate.cfg.xml
+/struts.xml
